@@ -7,5 +7,6 @@ TODO:
 - [ ]: Fully transcribe old text
 - [ ]: Finish build system
 - [ ]: Update translation with less clunky english
+    - [ ]: A: make euclids algorithm more readable.
 - [ ]: Recreate all figures and tables with SVGs and LaTeX
 
